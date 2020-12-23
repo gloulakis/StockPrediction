@@ -1,2 +1,2 @@
 # StockPrediction
- Writen on Python
+Store application written in Angular
